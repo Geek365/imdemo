@@ -1,6 +1,6 @@
 # imdemo
 
-![image](https://github.com/DarksKnight/imdemo/tree/master/screen/a.gif)
+![image](https://github.com/DarksKnight/imdemo/blob/master/a.gif)
 ![image](https://github.com/DarksKnight/imdemo/tree/master/screen/b.gif)
 ![image](https://github.com/DarksKnight/imdemo/tree/master/screen/c.gif)
 ![image](https://github.com/DarksKnight/imdemo/tree/master/screen/d.gif)
